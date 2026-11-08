@@ -10,21 +10,21 @@ const DEFAULT_GALLERY_DATA: WorkGalleryData = {
   title: "Some of my work",
   images: [
     // Row 1: Football 
-    { id: "img1", src: "/insta-post/Corner_to_Crossbar_World_cup_2026_part_2fifaworldcup_FIFAWORLDCUP2026_messi.webp", alt: "Football Work Sample 1" },
-    { id: "img2", src: "/insta-post/Forget_standard_sportswear_this_is_a_wearable_Renaissance_painting._While_corporate_spor.webp", alt: "Football Work Sample 2" },
+    { id: "img1", src: "/insta-post/cr7_retired.jpg", alt: "Football Work Sample 1" },
+    { id: "img2", src: "/insta-post/manchested_united_cunha.jpg", alt: "Football Work Sample 2" },
     { id: "img3", src: "/insta-post/The_2026_World_Cup_has_been_over_for_a_week_now_but_its_impact_is_still_visible_absolutely_eve.webp", alt: "Football Work Sample 3" },
-    { id: "img4", src: "/insta-post/The_jewelry_game_at_the_2026_World_Cup_has_been_absolutely_freezing._FIFA_might_enforce_a_st.webp", alt: "Football Work Sample 4" },
+    { id: "img4", src: "/insta-post/adidas_just revived_aggressive_predator.jpg", alt: "Football Work Sample 4" },
     
     // Row 2: Football
     { id: "img5", src: "/insta-post/The_tunnel_walk_has_officially_become_a_runway_and_we_are_absolutely_here_for_it._The_2026.webp", alt: "Football Work Sample 5" },
     { id: "img6", src: "/insta-post/This_is_exactly_why_the_World_Cup_belongs_to_the_dreamers._Forget_the_billion-dollar_squa.webp", alt: "Football Work Sample 6" },
     { id: "img7", src: "/insta-post/Two_drops_in_48_hours._The_CR7_sneaker_dynasty_has_officially_reached_its_ultimate_golden_chapt.jpg", alt: "Football Work Sample 7" },
-    { id: "img8", src: "/insta-post/Zero_downtime_absolute_execution._erling_isnt_wasting_a_single_second_after_a_historic_World.webp", alt: "Football Work Sample 8" },
+    { id: "img8", src: "/insta-post/Corner_to_Crossbar_World_cup_2026_part_2fifaworldcup_FIFAWORLDCUP2026_messi.webp", alt: "Football Work Sample 8" },
     
     // Row 3: Tote Bags
     { id: "img9", src: "/insta-post/Bloom_Bags_limited_Edition_Tote_Bags_-_Eco-Friendly_Fashion__Lifestyletotebag_totebagstyle_.jpg", alt: "Tote Bag Sample 1" },
     { id: "img10", src: "/insta-post/Crush_Impress__Bloom_Bag__.jpg", alt: "Tote Bag Sample 2" },
-    { id: "img11", src: "/insta-post/Find_your_Perfect_Fashionable_Tote_bagsEco-friendly_Material-_Made_from_sustainable_biodegradab.jpg", alt: "Tote Bag Sample 3" },
+    { id: "img11", src: "/insta-post/bloom.jpg", alt: "Tote Bag Sample 3" },
     { id: "img12", src: "/insta-post/Introducing_Customized_Our_Soft_Canvas_Tote_Bag_Totes_Bag_for_School_college_Universit.jpg", alt: "Tote Bag Sample 4" },
   ],
 };

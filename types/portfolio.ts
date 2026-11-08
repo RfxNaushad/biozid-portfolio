@@ -58,9 +58,16 @@ export interface VideoReelItem {
   instagramUrl?: string;
 }
 
+export interface YouTubeVideoItem {
+  id: string;
+  title?: string;
+  youtubeUrl: string;
+}
+
 export interface VideoShowcaseData {
   sectionTitle?: string;
   embedUrl: string;
+  youtubeVideos?: YouTubeVideoItem[];
   reels: VideoReelItem[];
 }
 
